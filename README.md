@@ -19,7 +19,7 @@ Install all dependencies, in repo's root:
   - React Native, Redux Toolkit, Redux
   - axios, react-navigation, xmldom
 
-## ![MSApps](./app/images/preview.mp4)
+## ![MSApps](./app/images/preview.gif)
 
 **For suggestions and errors:**
 4923920@gmail.com

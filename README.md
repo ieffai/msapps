@@ -1,7 +1,7 @@
 ## **Mobile App Flickr Gallery for MSApps**
 
-This is a test task made for MSApp company, to demonstrate my coding skills<br />
-The best way to test it via android, tests on iOS didn't made because the lack of time =)<br />
+This is a test app created for MSApp to showcase my programming skills. </br>
+It is the best to test through android, cause I did not do tests on iOS due to lack of time =)<br />
 
 ### Local Deploy
 
